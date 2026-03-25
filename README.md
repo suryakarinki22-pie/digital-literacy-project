@@ -12,7 +12,7 @@ Hi! This repository contains all my work for the CSE0001 Digital Literacy course
 * [Task 1: My Canva Infographic](Replace_with_your_link)
 * [Task 3: Digital Awareness Quiz (Google Form)](Replace_with_your_link)
 
-## What's in this Repo (Module Summaries)
+## What's in this Repository (Module Summaries)
 * **Task 1 (Infographic):** A visual guide I designed in Canva to explain basic digital literacy and internet safety to other students.
 * **Task 2 (Digital Portfolio):** Screenshots showing the professional profiles I set up on GitHub, LinkedIn, and Kaggle.
 * **Task 3 (Platforms):** Proof of a beginner coding challenge I tried out, plus a collaborative Google Form quiz I built.
