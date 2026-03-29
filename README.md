@@ -1,4 +1,4 @@
-# CSE0001 - Digital Literacy Project 💻
+# Digital Literacy Project 💻
 
 
 ## 👨‍🎓 Student Details
