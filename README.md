@@ -1,20 +1,38 @@
-# CSE0001 Digital Literacy Project Portfolio
-
-## Project Overview
-Hi! This repository contains all my work for the CSE0001 Digital Literacy course at VIT Bhopal. The goal of this assignment is to act as a "Student Digital Ambassador" and put togetTAher a portfolio that shows how to use digital tools professionally and stay safe online. Everything is divided into five module tasks.
-
-## My Details
-* **Name:** KARINKI BALASURYAMANIKANTA
-* **Registration Number:** 25MIM10097
-
-
-## Important Links
-* [Task 1: My Canva Infographic](Replace_with_your_link)
-* [Task 3: Digital Awareness Quiz (Google Form)](Replace_with_your_link)
-
-## What's in this Repository (Module Summaries)
-* **Task 1 (Infographic):** A visual guide I designed in Canva to explain basic digital literacy and internet safety to other students.
-* **Task 2 (Digital Portfolio):** Screenshots showing the professional profiles I set up on GitHub, LinkedIn, and Kaggle.
-* **Task 3 (Platforms):** Proof of a beginner coding challenge I tried out, plus a collaborative Google Form quiz I built.
-* **Task 4 (Email Etiquette):** Two drafts of professional emails (asking for an extension and applying for an internship), along with a simple Do's and Don'ts checklist for using social media.
-* **Task 5 (Cybercrime):** A short case study I wrote about online fraud, complete with a prevention checklist that includes the 1930 National Cyber Crime Helpline.
+# Digital Literacy Project 
+ 
+**Name:** KARINKI BALASURYAMANIKANTA
+**Reg No:** 25MIM10097  
+**Branch:** INT,M.TECH  
+**Institution:** VIT Bhopal University  
+ 
+---
+ 
+## Task 1 – Infographic
+Created a digital literacy infographic using Canva covering safe internet practices and professional online presence.  
+📁 `task-1-presentation/`
+ 
+---
+ 
+## Task 2 – Digital Portfolio
+Set up profiles on GitHub, LinkedIn, and Kaggle. Screenshots saved in the folder.  
+📁 `task-2-portfolio/`
+ 
+---
+ 
+## Task 3 – Coding and Collaboration Platforms
+Completed a beginner Python challenge on HackerRank. Built a 5-question Digital Literacy Quiz on Google Forms.  
+🔗 Google Form: [Paste link here]  
+📁 `task-3-platforms/`
+ 
+---
+ 
+## Task 4 – Email Etiquette
+Wrote two professional emails and created a Social Media Do's and Don'ts checklist.  
+📁 `task-4-email-etiquette/`
+ 
+---
+ 
+## Task 5 – Cybercrime Awareness
+Wrote a case study on UPI Payment Fraud and created a Stay Safe Online prevention checklist.  
+📁 `task-5-cybercrime/`
+ 
